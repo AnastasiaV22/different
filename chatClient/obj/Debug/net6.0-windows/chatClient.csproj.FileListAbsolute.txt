@@ -1,0 +1,68 @@
+D:\Учеба\chatClient\bin\Debug\net6.0-windows\chatClient.exe
+D:\Учеба\chatClient\bin\Debug\net6.0-windows\chatClient.deps.json
+D:\Учеба\chatClient\bin\Debug\net6.0-windows\chatClient.runtimeconfig.json
+D:\Учеба\chatClient\bin\Debug\net6.0-windows\chatClient.dll
+D:\Учеба\chatClient\bin\Debug\net6.0-windows\chatClient.pdb
+D:\Учеба\chatClient\obj\Debug\net6.0-windows\chatClient.csproj.AssemblyReference.cache
+D:\Учеба\chatClient\obj\Debug\net6.0-windows\chatClient.Form1.resources
+D:\Учеба\chatClient\obj\Debug\net6.0-windows\chatClient.csproj.GenerateResource.cache
+D:\Учеба\chatClient\obj\Debug\net6.0-windows\chatClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\chatClient\obj\Debug\net6.0-windows\chatClient.AssemblyInfoInputs.cache
+D:\Учеба\chatClient\obj\Debug\net6.0-windows\chatClient.AssemblyInfo.cs
+D:\Учеба\chatClient\obj\Debug\net6.0-windows\chatClient.csproj.CoreCompileInputs.cache
+D:\Учеба\chatClient\obj\Debug\net6.0-windows\chatClient.dll
+D:\Учеба\chatClient\obj\Debug\net6.0-windows\refint\chatClient.dll
+D:\Учеба\chatClient\obj\Debug\net6.0-windows\chatClient.pdb
+D:\Учеба\chatClient\obj\Debug\net6.0-windows\chatClient.genruntimeconfig.cache
+D:\Учеба\chatClient\obj\Debug\net6.0-windows\ref\chatClient.dll
+D:\Учеба\прв\chatClient\bin\Debug\net6.0-windows\chatClient.exe
+D:\Учеба\прв\chatClient\bin\Debug\net6.0-windows\chatClient.deps.json
+D:\Учеба\прв\chatClient\bin\Debug\net6.0-windows\chatClient.runtimeconfig.json
+D:\Учеба\прв\chatClient\bin\Debug\net6.0-windows\chatClient.dll
+D:\Учеба\прв\chatClient\bin\Debug\net6.0-windows\chatClient.pdb
+D:\Учеба\прв\chatClient\obj\Debug\net6.0-windows\chatClient.csproj.AssemblyReference.cache
+D:\Учеба\прв\chatClient\obj\Debug\net6.0-windows\chatClient.Form1.resources
+D:\Учеба\прв\chatClient\obj\Debug\net6.0-windows\chatClient.csproj.GenerateResource.cache
+D:\Учеба\прв\chatClient\obj\Debug\net6.0-windows\chatClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\прв\chatClient\obj\Debug\net6.0-windows\chatClient.AssemblyInfoInputs.cache
+D:\Учеба\прв\chatClient\obj\Debug\net6.0-windows\chatClient.AssemblyInfo.cs
+D:\Учеба\прв\chatClient\obj\Debug\net6.0-windows\chatClient.csproj.CoreCompileInputs.cache
+D:\Учеба\прв\chatClient\obj\Debug\net6.0-windows\chatClient.dll
+D:\Учеба\прв\chatClient\obj\Debug\net6.0-windows\refint\chatClient.dll
+D:\Учеба\прв\chatClient\obj\Debug\net6.0-windows\chatClient.pdb
+D:\Учеба\прв\chatClient\obj\Debug\net6.0-windows\chatClient.genruntimeconfig.cache
+D:\Учеба\прв\chatClient\obj\Debug\net6.0-windows\ref\chatClient.dll
+D:\Учеба\прв\чатрабочий\chatClient\bin\Debug\net6.0-windows\chatClient.exe
+D:\Учеба\прв\чатрабочий\chatClient\bin\Debug\net6.0-windows\chatClient.deps.json
+D:\Учеба\прв\чатрабочий\chatClient\bin\Debug\net6.0-windows\chatClient.runtimeconfig.json
+D:\Учеба\прв\чатрабочий\chatClient\bin\Debug\net6.0-windows\chatClient.dll
+D:\Учеба\прв\чатрабочий\chatClient\bin\Debug\net6.0-windows\chatClient.pdb
+D:\Учеба\прв\чатрабочий\chatClient\obj\Debug\net6.0-windows\chatClient.csproj.AssemblyReference.cache
+D:\Учеба\прв\чатрабочий\chatClient\obj\Debug\net6.0-windows\chatClient.Form1.resources
+D:\Учеба\прв\чатрабочий\chatClient\obj\Debug\net6.0-windows\chatClient.csproj.GenerateResource.cache
+D:\Учеба\прв\чатрабочий\chatClient\obj\Debug\net6.0-windows\chatClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\прв\чатрабочий\chatClient\obj\Debug\net6.0-windows\chatClient.AssemblyInfoInputs.cache
+D:\Учеба\прв\чатрабочий\chatClient\obj\Debug\net6.0-windows\chatClient.AssemblyInfo.cs
+D:\Учеба\прв\чатрабочий\chatClient\obj\Debug\net6.0-windows\chatClient.csproj.CoreCompileInputs.cache
+D:\Учеба\прв\чатрабочий\chatClient\obj\Debug\net6.0-windows\chatClient.dll
+D:\Учеба\прв\чатрабочий\chatClient\obj\Debug\net6.0-windows\refint\chatClient.dll
+D:\Учеба\прв\чатрабочий\chatClient\obj\Debug\net6.0-windows\chatClient.pdb
+D:\Учеба\прв\чатрабочий\chatClient\obj\Debug\net6.0-windows\chatClient.genruntimeconfig.cache
+D:\Учеба\прв\чатрабочий\chatClient\obj\Debug\net6.0-windows\ref\chatClient.dll
+D:\Учеба\прв\prv4 чат\chatClient\bin\Debug\net6.0-windows\chatClient.exe
+D:\Учеба\прв\prv4 чат\chatClient\bin\Debug\net6.0-windows\chatClient.deps.json
+D:\Учеба\прв\prv4 чат\chatClient\bin\Debug\net6.0-windows\chatClient.runtimeconfig.json
+D:\Учеба\прв\prv4 чат\chatClient\bin\Debug\net6.0-windows\chatClient.dll
+D:\Учеба\прв\prv4 чат\chatClient\bin\Debug\net6.0-windows\chatClient.pdb
+D:\Учеба\прв\prv4 чат\chatClient\obj\Debug\net6.0-windows\chatClient.csproj.AssemblyReference.cache
+D:\Учеба\прв\prv4 чат\chatClient\obj\Debug\net6.0-windows\chatClient.Form1.resources
+D:\Учеба\прв\prv4 чат\chatClient\obj\Debug\net6.0-windows\chatClient.csproj.GenerateResource.cache
+D:\Учеба\прв\prv4 чат\chatClient\obj\Debug\net6.0-windows\chatClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\прв\prv4 чат\chatClient\obj\Debug\net6.0-windows\chatClient.AssemblyInfoInputs.cache
+D:\Учеба\прв\prv4 чат\chatClient\obj\Debug\net6.0-windows\chatClient.AssemblyInfo.cs
+D:\Учеба\прв\prv4 чат\chatClient\obj\Debug\net6.0-windows\chatClient.csproj.CoreCompileInputs.cache
+D:\Учеба\прв\prv4 чат\chatClient\obj\Debug\net6.0-windows\chatClient.dll
+D:\Учеба\прв\prv4 чат\chatClient\obj\Debug\net6.0-windows\refint\chatClient.dll
+D:\Учеба\прв\prv4 чат\chatClient\obj\Debug\net6.0-windows\chatClient.pdb
+D:\Учеба\прв\prv4 чат\chatClient\obj\Debug\net6.0-windows\chatClient.genruntimeconfig.cache
+D:\Учеба\прв\prv4 чат\chatClient\obj\Debug\net6.0-windows\ref\chatClient.dll

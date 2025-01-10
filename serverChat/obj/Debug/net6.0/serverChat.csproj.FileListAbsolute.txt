@@ -1,0 +1,60 @@
+D:\Учеба\serverChat\bin\Debug\net6.0\serverChat.exe
+D:\Учеба\serverChat\bin\Debug\net6.0\serverChat.deps.json
+D:\Учеба\serverChat\bin\Debug\net6.0\serverChat.runtimeconfig.json
+D:\Учеба\serverChat\bin\Debug\net6.0\serverChat.dll
+D:\Учеба\serverChat\bin\Debug\net6.0\serverChat.pdb
+D:\Учеба\serverChat\obj\Debug\net6.0\serverChat.csproj.AssemblyReference.cache
+D:\Учеба\serverChat\obj\Debug\net6.0\serverChat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\serverChat\obj\Debug\net6.0\serverChat.AssemblyInfoInputs.cache
+D:\Учеба\serverChat\obj\Debug\net6.0\serverChat.AssemblyInfo.cs
+D:\Учеба\serverChat\obj\Debug\net6.0\serverChat.csproj.CoreCompileInputs.cache
+D:\Учеба\serverChat\obj\Debug\net6.0\serverChat.dll
+D:\Учеба\serverChat\obj\Debug\net6.0\refint\serverChat.dll
+D:\Учеба\serverChat\obj\Debug\net6.0\serverChat.pdb
+D:\Учеба\serverChat\obj\Debug\net6.0\serverChat.genruntimeconfig.cache
+D:\Учеба\serverChat\obj\Debug\net6.0\ref\serverChat.dll
+D:\Учеба\прв\серв старое\serverChat\bin\Debug\net6.0\serverChat.exe
+D:\Учеба\прв\серв старое\serverChat\bin\Debug\net6.0\serverChat.deps.json
+D:\Учеба\прв\серв старое\serverChat\bin\Debug\net6.0\serverChat.runtimeconfig.json
+D:\Учеба\прв\серв старое\serverChat\bin\Debug\net6.0\serverChat.dll
+D:\Учеба\прв\серв старое\serverChat\bin\Debug\net6.0\serverChat.pdb
+D:\Учеба\прв\серв старое\serverChat\obj\Debug\net6.0\serverChat.csproj.AssemblyReference.cache
+D:\Учеба\прв\серв старое\serverChat\obj\Debug\net6.0\serverChat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\прв\серв старое\serverChat\obj\Debug\net6.0\serverChat.AssemblyInfoInputs.cache
+D:\Учеба\прв\серв старое\serverChat\obj\Debug\net6.0\serverChat.AssemblyInfo.cs
+D:\Учеба\прв\серв старое\serverChat\obj\Debug\net6.0\serverChat.csproj.CoreCompileInputs.cache
+D:\Учеба\прв\серв старое\serverChat\obj\Debug\net6.0\serverChat.dll
+D:\Учеба\прв\серв старое\serverChat\obj\Debug\net6.0\refint\serverChat.dll
+D:\Учеба\прв\серв старое\serverChat\obj\Debug\net6.0\serverChat.pdb
+D:\Учеба\прв\серв старое\serverChat\obj\Debug\net6.0\serverChat.genruntimeconfig.cache
+D:\Учеба\прв\серв старое\serverChat\obj\Debug\net6.0\ref\serverChat.dll
+D:\Учеба\прв\чатрабочий\serverChat\bin\Debug\net6.0\serverChat.exe
+D:\Учеба\прв\чатрабочий\serverChat\bin\Debug\net6.0\serverChat.deps.json
+D:\Учеба\прв\чатрабочий\serverChat\bin\Debug\net6.0\serverChat.runtimeconfig.json
+D:\Учеба\прв\чатрабочий\serverChat\bin\Debug\net6.0\serverChat.dll
+D:\Учеба\прв\чатрабочий\serverChat\bin\Debug\net6.0\serverChat.pdb
+D:\Учеба\прв\чатрабочий\serverChat\obj\Debug\net6.0\serverChat.csproj.AssemblyReference.cache
+D:\Учеба\прв\чатрабочий\serverChat\obj\Debug\net6.0\serverChat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\прв\чатрабочий\serverChat\obj\Debug\net6.0\serverChat.AssemblyInfoInputs.cache
+D:\Учеба\прв\чатрабочий\serverChat\obj\Debug\net6.0\serverChat.AssemblyInfo.cs
+D:\Учеба\прв\чатрабочий\serverChat\obj\Debug\net6.0\serverChat.csproj.CoreCompileInputs.cache
+D:\Учеба\прв\чатрабочий\serverChat\obj\Debug\net6.0\serverChat.dll
+D:\Учеба\прв\чатрабочий\serverChat\obj\Debug\net6.0\refint\serverChat.dll
+D:\Учеба\прв\чатрабочий\serverChat\obj\Debug\net6.0\serverChat.pdb
+D:\Учеба\прв\чатрабочий\serverChat\obj\Debug\net6.0\serverChat.genruntimeconfig.cache
+D:\Учеба\прв\чатрабочий\serverChat\obj\Debug\net6.0\ref\serverChat.dll
+D:\Учеба\прв\prv4 чат\serverChat\bin\Debug\net6.0\serverChat.exe
+D:\Учеба\прв\prv4 чат\serverChat\bin\Debug\net6.0\serverChat.deps.json
+D:\Учеба\прв\prv4 чат\serverChat\bin\Debug\net6.0\serverChat.runtimeconfig.json
+D:\Учеба\прв\prv4 чат\serverChat\bin\Debug\net6.0\serverChat.dll
+D:\Учеба\прв\prv4 чат\serverChat\bin\Debug\net6.0\serverChat.pdb
+D:\Учеба\прв\prv4 чат\serverChat\obj\Debug\net6.0\serverChat.csproj.AssemblyReference.cache
+D:\Учеба\прв\prv4 чат\serverChat\obj\Debug\net6.0\serverChat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\прв\prv4 чат\serverChat\obj\Debug\net6.0\serverChat.AssemblyInfoInputs.cache
+D:\Учеба\прв\prv4 чат\serverChat\obj\Debug\net6.0\serverChat.AssemblyInfo.cs
+D:\Учеба\прв\prv4 чат\serverChat\obj\Debug\net6.0\serverChat.csproj.CoreCompileInputs.cache
+D:\Учеба\прв\prv4 чат\serverChat\obj\Debug\net6.0\serverChat.dll
+D:\Учеба\прв\prv4 чат\serverChat\obj\Debug\net6.0\refint\serverChat.dll
+D:\Учеба\прв\prv4 чат\serverChat\obj\Debug\net6.0\serverChat.pdb
+D:\Учеба\прв\prv4 чат\serverChat\obj\Debug\net6.0\serverChat.genruntimeconfig.cache
+D:\Учеба\прв\prv4 чат\serverChat\obj\Debug\net6.0\ref\serverChat.dll
