@@ -1,0 +1,21 @@
+D:\Учеба\prv1\obj\Debug\prv1.csproj.AssemblyReference.cache
+D:\Учеба\prv1\obj\Debug\prv1.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\prv1\obj\Debug\prv1.Form1.resources
+D:\Учеба\prv1\obj\Debug\prv1.Properties.Resources.resources
+D:\Учеба\prv1\obj\Debug\prv1.csproj.GenerateResource.cache
+D:\Учеба\prv1\obj\Debug\prv1.csproj.CoreCompileInputs.cache
+D:\Учеба\prv1\bin\Debug\prv1.exe.config
+D:\Учеба\prv1\bin\Debug\prv1.exe
+D:\Учеба\prv1\bin\Debug\prv1.pdb
+D:\Учеба\prv1\obj\Debug\prv1.exe
+D:\Учеба\prv1\obj\Debug\prv1.pdb
+E:\Учеба 2.0\Учеба\прв\prv1\bin\Debug\prv1.exe.config
+E:\Учеба 2.0\Учеба\прв\prv1\bin\Debug\prv1.exe
+E:\Учеба 2.0\Учеба\прв\prv1\bin\Debug\prv1.pdb
+E:\Учеба 2.0\Учеба\прв\prv1\obj\Debug\prv1.csproj.AssemblyReference.cache
+E:\Учеба 2.0\Учеба\прв\prv1\obj\Debug\prv1.Form1.resources
+E:\Учеба 2.0\Учеба\прв\prv1\obj\Debug\prv1.Properties.Resources.resources
+E:\Учеба 2.0\Учеба\прв\prv1\obj\Debug\prv1.csproj.GenerateResource.cache
+E:\Учеба 2.0\Учеба\прв\prv1\obj\Debug\prv1.csproj.CoreCompileInputs.cache
+E:\Учеба 2.0\Учеба\прв\prv1\obj\Debug\prv1.exe
+E:\Учеба 2.0\Учеба\прв\prv1\obj\Debug\prv1.pdb
