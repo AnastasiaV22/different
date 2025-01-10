@@ -1,0 +1,4 @@
+﻿  Matrix2.cpp
+D:\Учеба\прв\prv2\Matrix2\Matrix2\Matrix2.cpp(61,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Учеба\прв\prv2\Matrix2\Matrix2\Matrix2.cpp(57,9): warning C4101: choose: неиспользованная локальная переменная
+  Matrix2.vcxproj -> D:\Учеба\прв\prv2\Matrix2\x64\Debug\Matrix2.exe

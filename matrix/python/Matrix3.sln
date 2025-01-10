@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Matrix3", "Matrix3\Matrix3.pyproj", "{87CE867C-7C93-4F9F-918D-9823956ABE88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87CE867C-7C93-4F9F-918D-9823956ABE88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87CE867C-7C93-4F9F-918D-9823956ABE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A97B3EC9-A3C3-45F9-B8A2-B60D00209649}
+	EndGlobalSection
+EndGlobal
